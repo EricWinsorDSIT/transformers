@@ -1,4 +1,4 @@
-FROM rocm/dev-ubuntu-22.04:6.0.2
+FROM rocm/dev-ubuntu-22.04:6.3
 # rocm/pytorch has no version with 2.1.0
 LABEL maintainer="Hugging Face"
 
